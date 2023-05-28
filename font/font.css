@@ -1,0 +1,15 @@
+@font-face {
+	font-family: 'Pretendard Variable';
+	font-weight: 45 920;
+	font-style: normal;
+	font-display: swap;
+	src: local('Pretendard Variable'), url('./PretendardVariable.woff2') format('woff2-variations');
+}
+
+/* @font-face {
+  font-family: 'Holtwood One SC';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: local('Holtwood One SC'), url('./Holtwood.woff2') format('woff2');
+} */
